@@ -7,10 +7,8 @@ University Website
 | Name | email  | profile |
 | :--- | :---   | :--- |
 | X ZAID | s4848329@studenti.unige.it | [Federista](hhttps://github.com/federista)
-| Muhammad Malook Bugty | s4904540@studenti.unige.it | [Mbugti](https://github.com/mbugti)
-| Mohammad Azah Hussain | s4916211@studenti.unige.it | 
-| Raja Taha Hussain | s5046306@studenti.unige.it | 
-| Sassi Kumar uppatala | s5058253@studenti.unige.it |
+| Muhammad talha Siddiqui| engr.talhasiddiqui94@gmail.com | 
+| Soundarya pallanti| bujjilaxmi2712@gmail.com | 
  
  ## PROJECT DESCRIPTION
  The goal of this repository is having a distributed architecture which allow user to accurately identify the activity of daily life based upon the provided dataset.
