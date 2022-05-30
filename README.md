@@ -3,7 +3,7 @@
   
 University Website
   
-##GROUP MEMBERS
+ #GROUP MEMBERS
   
 | Name | email  | profile |
 | :--- | :---   | :--- |
