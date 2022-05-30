@@ -8,7 +8,7 @@ University Website
 | :--- | :---   | :--- |
 | X ZAID | s4848329@studenti.unige.it | [Federista](https://github.com/federista)
 | Muhammad talha Siddiqui| engr.talhasiddiqui94@gmail.com | 
-| Soundarya pallanti| bujjilaxmi2712@gmail.com | 
+| Soundarya pallanti| bujjilaxmi2712@gmail.com | [Soundarya Pallanti](https://github.com/soundarya4807289)
  
  ## PROJECT DESCRIPTION
  The goal of this repository is having a distributed architecture which allow user to accurately identify the activity of daily life based upon the provided dataset.
@@ -26,7 +26,8 @@ Finally, the last two columns report as session ID.There are four different sess
 
    ## STEPS 
  Following are the steps that will help user to experience the functionality of the code.
- step 0 --> open a terminal and cd to the home folder:
+
+step 0 --> open a terminal and cd to the home folder:
 
 ``` 
     $ cd
