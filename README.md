@@ -6,7 +6,7 @@ University Website
 
 | Name | email  | profile |
 | :--- | :---   | :--- |
-| X ZAID | s4848329@studenti.unige.it | [Federista](hhttps://github.com/federista)]
+| X ZAID | s4848329@studenti.unige.it | [Federista](https://github.com/federista)
 | Muhammad talha Siddiqui| engr.talhasiddiqui94@gmail.com | 
 | Soundarya pallanti| bujjilaxmi2712@gmail.com | 
  
