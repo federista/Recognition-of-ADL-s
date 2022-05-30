@@ -29,6 +29,9 @@ Finally, the last two columns report as session ID.There are four different sess
  step 0 --> open a terminal and cd to the home folder:
 
 ``` 
+    $ cd
+``` 
+
 
 
   
