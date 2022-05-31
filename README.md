@@ -9,6 +9,7 @@ University Website
 | X ZAID | s4848329@studenti.unige.it | [Federista](https://github.com/federista)
 | Muhammad talha Siddiqui| engr.talhasiddiqui94@gmail.com | 
 | Soundarya pallanti| bujjilaxmi2712@gmail.com | [Soundarya Pallanti](https://github.com/soundarya4807289)
+| Vivek Vijaykumar Ingle| vivekvijay380@gmail.com | [Vivek Vijay](https://github.com/S4851211)  
  
  ## PROJECT DESCRIPTION
  The goal of this repository is having a distributed architecture which allow user to accurately identify the activity of daily life based upon the provided dataset.
