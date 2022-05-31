@@ -26,9 +26,9 @@ Each annotations csv file’s first two columns are the current daytime in the f
 Finally, the last two columns report as session ID.There are four different sessions characterised by the order in which the activities are performed, and by the used arm and whether the session starts or ends. The videos recorded during the experiments have been only used for labelling purposes, and they are not published.
 
    ## STEPS 
- Following are the steps that will help user to experience the functionality of the code.
+  Following are the steps that will help user to experience the functionality of the cod
 
-## Step 1
+Step 1
   Install python3 using apt
 
 ``` 
@@ -36,6 +36,21 @@ Finally, the last two columns report as session ID.There are four different sess
     $ sudo apt install software-properties-common
     $ sudo apt install python3.8
 ``` 
+Step 2
+  Install pycharm and git
+ 
+ ```
+   $ sudo snap install pycharm-professional --classic
+   $ sudo apt install git
+  ```
+Step 3
+  clone the repository into your local folder
+  ```
+  $ gitclone https://github.com/federista/Recognition-of-ADL-s.git
+  ```
+  
+  
+  
 
 
 
