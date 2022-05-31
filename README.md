@@ -28,10 +28,13 @@ Finally, the last two columns report as session ID.There are four different sess
    ## STEPS 
  Following are the steps that will help user to experience the functionality of the code.
 
-step 0 --> open a terminal and cd to the home folder:
+## Step 1
+  Install python3 using apt
 
 ``` 
-    $ cd
+    $ sudo apt update
+    $ sudo apt install software-properties-common
+    $ sudo apt install python3.8
 ``` 
 
 
