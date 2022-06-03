@@ -56,12 +56,10 @@ Step 4
   $ ./run.sh
   ```
   
-  Markup :  __Strong text__ or **Strong text**
-  
   
 A series of python scripts will run sequentially afterwards and they are listed below
   
-  __PrepareData.py__ 
+  __PrepareData.py__ :
   It will prepare the data into two sets. 70% Training data and 30% Testing data in order to later on test the accuracy of our system.
   
   
