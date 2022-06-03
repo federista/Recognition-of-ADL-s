@@ -89,6 +89,11 @@ A series of python scripts will run sequentially afterwards and they are listed 
   __PredictionVoting.py:__
   Voting mechanism is approached to test the accuracy and generate a final label.
   
+  ### Beware###
+  For the code to work properly kindly change the address path of eac file after you clone the repository
+  
+  Below is the detailed video of the process attached
+  
   
   
 
