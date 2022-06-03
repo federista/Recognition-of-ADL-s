@@ -36,19 +36,31 @@ Step 1
     $ sudo apt install software-properties-common
     $ sudo apt install python3.8
 ``` 
+  
 Step 2
+  Install the following packages 
+  ```
+  $ sudo apt install python-numpy
+  $ sudo apt install python3-pandas
+  $ pip install pickle-mixin
+  $ pip install jsonlib-python3
+  $ pip install -U scikit-learn
+  
+  
+  
+Step 3
   Install pycharm and git
  
  ```
    $ sudo snap install pycharm-professional --classic
    $ sudo apt install git
   ```
-Step 3
+Step 4
   clone the repository into your local folder
   ```
   $ gitclone https://github.com/federista/Recognition-of-ADL-s.git
   ```
-Step 4
+Step 5
   cd into your local repository and run the shell script "run.sh"
   
   ```
