@@ -62,6 +62,18 @@ A series of python scripts will run sequentially afterwards and they are listed 
   __PrepareData.py__ :
   It will prepare the data into two sets. 70% Training data and 30% Testing data in order to later on test the accuracy of our system.
   
+  __TrainModel.py__:
+  It will create a total number of 6 models in respective to 6 IMUs
+  
+  __PrepareSimulationData.py:__
+  Collectio of Simulation data for each individual IMU in order to test our system
+  
+  __IMU_Prediction.py:__
+  Predicted label for each IMU will be generated
+  
+  __PredictionVoting.py:__
+  Voting mechanism is approached to test the accuracy and generate a final label.
+  
   
   
 
