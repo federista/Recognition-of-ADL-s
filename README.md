@@ -61,7 +61,7 @@ Step 4
   
 A series of python scripts will run sequentially afterwards and they are listed below
   
-  ** PrepareData.py** 
+  __PrepareData.py__ 
   It will prepare the data into two sets. 70% Training data and 30% Testing data in order to later on test the accuracy of our system.
   
   
