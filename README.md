@@ -48,6 +48,11 @@ Step 3
   ```
   $ gitclone https://github.com/federista/Recognition-of-ADL-s.git
   ```
+Step 4
+  cd into your local repository and run the shell script "run.sh"
+  
+A series of python scripts will run sequentially afterwards and they are listed below
+  ** PrepareData.py:** It will prepare the data into two sets. 70% Training data and 30% Testing data in order to later on test the accuracy of our system.
   
   
   
