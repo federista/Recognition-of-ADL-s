@@ -38,15 +38,15 @@ Step 1
 ``` 
   
 Step 2
-  Install the following packages 
+  Install the following packages
+  
   ```
   $ sudo apt install python-numpy
   $ sudo apt install python3-pandas
   $ pip install pickle-mixin
   $ pip install jsonlib-python3
   $ pip install -U scikit-learn
-  
-  
+  ```
   
 Step 3
   Install pycharm and git
