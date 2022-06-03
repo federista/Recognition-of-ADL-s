@@ -90,7 +90,7 @@ A series of python scripts will run sequentially afterwards and they are listed 
   Voting mechanism is approached to test the accuracy and generate a final label.
   
   ### IMPORTANT:
-  For the code to work properly kindly change the address path of eac file after you clone the repository
+  For the code to work properly kindly change the address path of each file after you clone the repository
   
   Below is the detailed video of the process attached
   
