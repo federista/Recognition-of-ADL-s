@@ -55,11 +55,14 @@ Step 3
    $ sudo snap install pycharm-professional --classic
    $ sudo apt install git
   ```
+  
 Step 4
   clone the repository into your local folder
+  
   ```
   $ gitclone https://github.com/federista/Recognition-of-ADL-s.git
   ```
+  
 Step 5
   cd into your local repository and run the shell script "run.sh"
   
