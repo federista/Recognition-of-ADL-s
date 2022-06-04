@@ -7,6 +7,7 @@ University Website
 | Name | email  | profile |
 | :--- | :---   | :--- |
 | X ZAID | s4848329@studenti.unige.it | [Federista](https://github.com/federista)
+| Syed Hani Hussain Kazmi | hanihussain94@hotmail.com| [Hani Kazmi](https://github.com/HaniKazmi94)
 | Muhammad talha Siddiqui| engr.talhasiddiqui94@gmail.com | 
 | Soundarya pallanti| bujjilaxmi2712@gmail.com | [Soundarya Pallanti](https://github.com/soundarya4807289)
 | Vivek Vijaykumar Ingle| vivekvijay380@gmail.com | [Vivek Vijay](https://github.com/S4851211)  
