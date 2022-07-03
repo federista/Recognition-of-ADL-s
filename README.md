@@ -36,6 +36,9 @@ Each annotations csv file’s first two columns are the current daytime in the f
 Finally, the last two columns report as session ID.There are four different sessions characterised by the order in which the activities are performed, and by the used arm and whether the session starts or ends. The videos recorded during the experiments have been only used for labelling purposes, and they are not published.
 
 [LINK to the dataset](https://data.mendeley.com/datasets/wjpbtgdyzm/1)
+  
+  ## ARCHITECTURE
+  ![Image](https://github.com/federista/Recognition-of-ADL-s/blob/main/Architecture.png)
 
    ## STEPS 
   Following are the steps that will help user to experience the functionality of the cod
