@@ -39,6 +39,9 @@ Finally, the last two columns report as session ID.There are four different sess
   
   ## ARCHITECTURE
   ![Image](https://github.com/federista/Recognition-of-ADL-s/blob/main/Architecture.png)
+  
+  Each module will use the trained SVMs with the available CSV files to classify the data belonging to 9 different classes, i.e. 9 ADLs. In this arhitecture, multiclass classifier has been used for each sensor module.The training of these SVMs will be done separately and for each individual sensor module. The modules will simply apply the classification function to the normalized feature vector. The information coming from every sensor module will be merged by a higher-level module. This module implements a majority voting mechanism too: the final classification of the whole system will be the mode of the 6 labels coming from the 6 sensor modules.
+
 
    ## STEPS 
   Following are the steps that will help user to experience the functionality of the cod
