@@ -12,6 +12,15 @@ University Website
 | Soundarya pallanti| bujjilaxmi2712@gmail.com | [Soundarya Pallanti](https://github.com/soundarya4807289)
 | Vivek Vijaykumar Ingle| vivekvijay380@gmail.com | [Vivek Vijay](https://github.com/S4851211)  
  
+ ## Motivation and Genral Objective
+ Human Activity Recognition(HAR), and in particular the recognition of the Activities of Daily Living
+(ADL), such as pouring, drinking, walking, teeth brushing, sitting down, or getting up, is valuable in
+many settings, most notably in assistive scenarios, for instance in case of elderly and people with
+special needs. Getting to know which ADL a person is (or is not) carrying out could dramatically
+improve the support that robots (and/or digital assistants) can provide such a person with.
+Furthermore, such knowledge could also be of the utmost importance for caregivers, with the aim
+to keep fragile individuals living independently.
+
  ## PROJECT DESCRIPTION
  The goal of this repository is having a distributed architecture which allow user to accurately identify the activity of daily life based upon the provided dataset.
   
@@ -25,6 +34,8 @@ The next column is the time-stamp in milliseconds elapsed from 00.00.0.000 AM (w
 
 Each annotations csv file’s first two columns are the current daytime in the format “hh.mm.ss.000” and in ms elapsed from 00:00:0.000 AM; the remaining columns are organized as couples where the first element represents the scope of the labelling (i.e. “BothArms”, “RightArm”, “LeftArm”, “Locomotion”) and the second indicates whether the labelled activity starts or ends.
 Finally, the last two columns report as session ID.There are four different sessions characterised by the order in which the activities are performed, and by the used arm and whether the session starts or ends. The videos recorded during the experiments have been only used for labelling purposes, and they are not published.
+
+[LINK to the dataset](https://data.mendeley.com/datasets/wjpbtgdyzm/1)
 
    ## STEPS 
   Following are the steps that will help user to experience the functionality of the cod
