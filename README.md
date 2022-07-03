@@ -45,7 +45,7 @@ Finally, the last two columns report as session ID.There are four different sess
 
 Step 1
   Install python3 using apt
-
+ 
 ``` 
     $ sudo apt update
     $ sudo apt install software-properties-common 
