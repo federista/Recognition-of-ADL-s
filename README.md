@@ -101,11 +101,9 @@ A series of python scripts will run sequentially afterwards and they are listed 
   __PrepareSimulationData.py:__
   Collectio of Simulation data for each individual IMU in order to test our system
   
-  __IMU_Prediction.py:__
-  Predicted label for each IMU will be generated
   
-  __PredictionVoting.py:__
-  Voting mechanism is approached to test the accuracy and generate a final label.
+  __Model_Prediction.py:__
+  Predicted label for each IMU will be generated.Voting mechanism is approached to test the accuracy and generate a final label.
   
   ### IMPORTANT:
   For the code to work properly kindly change the address path of each file after you clone the repository
