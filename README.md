@@ -105,6 +105,10 @@ A series of python scripts will run sequentially afterwards and they are listed 
   __Model_Prediction.py:__
   Predicted label for each IMU will be generated.Voting mechanism is approached to test the accuracy and generate a final label.
   
+  ## OUTPUT
+  ![Image](https://github.com/federista/Recognition-of-ADL-s/blob/main/output/Output.png)
+  
+  
   ### IMPORTANT:
   For the code to work properly kindly change the address path of each file after you clone the repository
   
